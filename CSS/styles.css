@@ -27,9 +27,10 @@ Dark green: #28b485
         transform: translateX(100px);
     }
     80% {
-        transform: translate(10px);
+        transform: translateX(-10px);
     }
     100% {
+        opacity: 1;
         transform: translateX(0);
     }
 }
